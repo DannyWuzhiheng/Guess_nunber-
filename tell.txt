@@ -1,0 +1,1 @@
+Install the fonts and put the file in the D: directory.
